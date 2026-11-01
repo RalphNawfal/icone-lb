@@ -1,5 +1,5 @@
-# L'ICÔNE website (preview)
+# L'ICÔNE website
 
-Preview build of the L'ICÔNE Beauty & Aesthetics website (nail salon, Kfarchima, Lebanon), served on GitHub Pages under /icone-lb/. Marked noindex until it moves to its own domain.
+Website of L'ICÔNE Beauty & Aesthetics (beauty salon, Kfarchima, Lebanon), live at https://www.iconelb.com, served on GitHub Pages.
 
 Developed by https://tramanocreative.com/
